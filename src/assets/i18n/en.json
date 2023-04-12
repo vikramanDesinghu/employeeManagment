@@ -1,0 +1,11 @@
+{
+  "REQUIRED_DATE_OF_BIRTH": "Required Date of Birth",
+  "REQUIRED_DATE_OF_JOINING": "Required Date of Joining",
+  "REQUIRED_EXPERIENCE": "Required Experience",
+  "REQUIRED_FIRST_NAME": "Required First Name",
+  "REQUIRED_LAST_NAME": "Required Last Name",
+  "REQUIRED_OTP": "Required OTP",
+  "REQUIRED_PHONE_NUMBER": "Required Phone Number",
+  "REQUIRED_VALID_EMAIL": "Required Valid email",
+  "REQUIRED_VALID_PHONE_NUMBER": "Required Valid Phone number"
+}

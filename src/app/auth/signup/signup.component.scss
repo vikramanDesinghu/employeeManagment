@@ -1,0 +1,14 @@
+.signup-card {
+  text-align: center;
+  max-width: 300px;
+  margin: 0 auto;
+  transform: translateY(150px);
+  .mat-card-header{
+    justify-content: center;
+  }
+
+  .signup-form {
+    display: flex;
+    flex-direction: column;
+  }
+}
